@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c10ed9d6.css",
+    "main.js": "/static/js/main.032b9bd0.js",
+    "static/js/453.a782e518.chunk.js": "/static/js/453.a782e518.chunk.js",
+    "static/media/SitoRush.zip": "/static/media/SitoRush.2a43a9939422c5e626dc.zip",
+    "static/media/SwapYourBook.pdf": "/static/media/SwapYourBook.67b2d5bc6d0f2432322e.pdf",
+    "static/media/Relive-your-style.pdf": "/static/media/Relive-your-style.d01bcb3713e6e47df8b7.pdf",
+    "static/media/work-2.png": "/static/media/work-2.994ce838501ebfae5930.png",
+    "static/media/work-1.png": "/static/media/work-1.6f793d026d95756b2ba5.png",
+    "static/media/work-3.png": "/static/media/work-3.78a9abffedce4cd65b9c.png",
+    "static/media/background-home.jpg": "/static/media/background-home.c3e3ea4b9d59acb4b398.jpg",
+    "index.html": "/index.html",
+    "main.c10ed9d6.css.map": "/static/css/main.c10ed9d6.css.map",
+    "main.032b9bd0.js.map": "/static/js/main.032b9bd0.js.map",
+    "453.a782e518.chunk.js.map": "/static/js/453.a782e518.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c10ed9d6.css",
+    "static/js/main.032b9bd0.js"
+  ]
+}
